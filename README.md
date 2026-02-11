@@ -104,7 +104,7 @@ Clean & Reliable Dataset
 
 ## Data Transformation Architecture
 
-![Loan Data Engineering Pipeline](images/pipeline.png)
+![Loan Data Engineering Pipeline](image/pipeline.png)
 
 This diagram illustrates the complete data transformation lifecycle including schema enforcement, validation, missing value handling, and IQR-based distributed outlier detection using PySpark on Databricks.
 
